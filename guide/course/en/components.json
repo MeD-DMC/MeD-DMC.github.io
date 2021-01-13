@@ -1,0 +1,289 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5ffe24a70f1c9f0f2675b553",
+    "_parentId": "5ffe24a70f1c9f0f2675b552",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Sharepoint folder",
+    "displayTitle": "Sharepoint folder",
+    "body": "<ul><li>Verify that the folder is labeled Working&nbsp;</li><li>If it is not labeled Working– contact the GT4 who assigned it to verify these are the correct files to be used&nbsp;</li><li>Download files to your C&nbsp;</li><li>Start working&nbsp;</li></ul>",
+    "_id": "5ffe2d750f1c9f0f2675b5b8",
+    "_parentId": "5ffe24f00f1c9f0f2675b55c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "5ffe2d7f0f1c9f0f2675b5b9",
+    "_parentId": "5ffe24e30f1c9f0f2675b559",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "5ffe2d8f0f1c9f0f2675b5ba",
+    "_parentId": "5ffe299e0f1c9f0f2675b579",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "5ffe2d9c0f1c9f0f2675b5bb",
+    "_parentId": "5ffe2aff0f1c9f0f2675b5a1",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "5ffe2da40f1c9f0f2675b5bc",
+    "_parentId": "5ffe2b350f1c9f0f2675b5a4",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "5ffe2dad0f1c9f0f2675b5bd",
+    "_parentId": "5ffe2b3f0f1c9f0f2675b5a7",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "5ffe2db80f1c9f0f2675b5be",
+    "_parentId": "5ffe2bbf0f1c9f0f2675b5aa",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "5ffe2dc10f1c9f0f2675b5bf",
+    "_parentId": "5ffe2bd90f1c9f0f2675b5ad",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "5ffe2dc90f1c9f0f2675b5c0",
+    "_parentId": "5ffe2c0a0f1c9f0f2675b5b0",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Loading Live",
+    "displayTitle": "Loading Live",
+    "body": "<ul><li>Verify that the folder is labeled Working&nbsp;</li><li>Verify the dates on the SCORM package dates on SharePoint match the dates in the go live email&nbsp;</li><li>If not – Contact the GT3 that did the work to load their files to SharePoint with the GT4 and mailbox in cc&nbsp;</li><li>Load SCORM pkgs to LIVE&nbsp;</li><li>Download the Working folder (downloads as a zip)&nbsp;</li><li>Name the zip file SABALive-courseID-Language-DateloadedLive&nbsp;</li><li>Save this zip file to the U in the appropriate location&nbsp;</li><li>If the U current SABALive on the U is a folder archive the folder&nbsp;</li><li>If the U current SABALive on the U is a zip – do not rename – only add the current zip&nbsp;</li><li>On SharePoint rename the Working folder to Ready&nbsp;</li><li>Use the current SABALive QA email template&nbsp;</li><li>CC the Saba Team when you email the client any Saba Live Uploads: EDSC.DGSRH.SABA.HRSB.ESDC@servicecanada.gc.ca&nbsp;</li></ul>",
+    "_id": "5fff29760f1c9f0f2675ba78",
+    "_parentId": "5fff29070f1c9f0f2675ba76",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "instruction": ""
+  }
+]
